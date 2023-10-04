@@ -1,0 +1,13 @@
+* {
+  font-family: 'Poppins';
+
+  @media (prefers-color-scheme: dark) {
+    background: #202022;
+    color: white;
+  }
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
